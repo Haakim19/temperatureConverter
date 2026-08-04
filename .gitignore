@@ -1,0 +1,7 @@
+# Build output directories
+bin/
+obj/
+
+# User-specific options / IDE settings
+.vs/
+*.user
